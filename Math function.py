@@ -27,6 +27,8 @@ values = [i for i in range(-5,6)]
 for v in values:
     print(f"sinc({v})={sinc(v)}")</s>
 
+##Masai Codes##
+
 
 
 
